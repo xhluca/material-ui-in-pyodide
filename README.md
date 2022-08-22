@@ -5,7 +5,7 @@ This is a simple demo of using the `material-ui` React component inside `pyodide
 
 The Python source code in `main.py`, and `index.html` loads the required JS libraries (react, material-ui, pyodide) and run a simple JS script to fetch and run `main.py`.
 
-A modified version (which uses functions instead of `React.createElement`) can be found here: https://github.com/xhlulu/pyodide-mui-modified
+A modified version (which uses functions instead of `React.createElement`) can be found here: https://github.com/xhluca/pyodide-mui-modified
 
 ## Source
 
